@@ -1,6 +1,6 @@
 ## moringa school
-#### {creating the project}, {29/04/2022}
-#### By **{kelvin-kariuki}**
+#### creating the project, 29/04/2022
+#### By **kelvin-kariuki**
 ## Description
 Doing my first project using the learn't content. CReating a landing page for moringa school.
 
@@ -8,7 +8,7 @@ Doing my first project using the learn't content. CReating a landing page for mo
 To access this project on your local files, you can clone it using these steps
 1. Open your terminal
 2. Use this command to clone `$ git clone
-3.https://github.com/Kelvin-kariuki/moringa-school-projects.git
+3.(..https://github.com/Kelvin-kariuki/moringa-school-projects.git..)
 4. This will clone the repositoty into your local folder
 
 
