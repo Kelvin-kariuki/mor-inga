@@ -10,7 +10,7 @@ To access this project on your local files, you can clone it using these steps
 2. Use this command to clone `$ git clone
 3.(..https://github.com/Kelvin-kariuki/moringa-school-projects.git..)
 4. This will clone the repositoty into your local folder
-
+5. Link to the live page "https://kelvin-kariuki.github.io/mor-inga/"
 ## Known Bugs
 The landing page is fairly new. No know bugs reported yet.
 ## Technologies Used
