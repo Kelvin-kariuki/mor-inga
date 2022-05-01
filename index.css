@@ -1,3 +1,8 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(240, 237, 237);
+}
 .headers{
     width: 90%;
     margin: auto;
@@ -84,4 +89,27 @@ h2{
     font-family: Nunito;
     color: black;
     text-align: right;
+}
+.con {
+    
+    font-weight: lighter;
+    font-style: bold;
+    justify-content: space-between;
+    font-size: 28px;
+    color: gray;
+    color-interpolation-filters: 0px;
+    padding-left: 300px;
+    text-align: end;
+    
+}
+.brd {
+    
+    font-weight: lighter;
+    font-style: bold;
+    justify-content: space-between;
+    font-size: 28px;
+    color: gray;
+    padding-left: 120px;
+    
+    
 }
